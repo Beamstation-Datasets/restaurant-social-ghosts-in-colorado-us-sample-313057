@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Colorado, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `313057` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 201 records |
-| Free sample size | 20 records (9.95%) |
-| Last export | 2026-04-08T06:37:20.224969+00:00 |
+| Full dataset size | 171 records |
+| Free sample size | 17 records (9.94%) |
+| Last export | 2026-04-15T10:11:58.410206+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-colorado-us-sample-313057/releases/download/sample-latest/beamstation_313057_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
