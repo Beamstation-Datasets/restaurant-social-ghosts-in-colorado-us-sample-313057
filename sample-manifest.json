@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5707e205-ee4b-4830-9206-7ab962c37a1e",
+  "export_job_id": "a014245b-c9c7-4b72-a4b5-3c530da7827d",
   "id_short": 313057,
-  "published_at": "2026-04-22T19:32:32Z",
+  "published_at": "2026-04-30T07:16:10Z",
   "repo_name": "restaurant-social-ghosts-in-colorado-us-sample-313057",
   "sample_asset_name": "beamstation_313057_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/313057/beamstation_313057_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "6815f3649c7b57979fa11432c84cdb38aec4d164d97c4d10732a4ecaf685f4cb",
-  "sample_size_bytes": 28385,
-  "total_records": 34
+  "sample_records": 8,
+  "sample_sha256": "9d0baf7800ced66a47bf43d2c6d814b9a28fa38936ac198b8883e5054825d8ea",
+  "sample_size_bytes": 45172,
+  "total_records": 89
 }
